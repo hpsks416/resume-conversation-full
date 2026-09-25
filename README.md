@@ -2,10 +2,11 @@
 
 继承既有对话的**完整细节**。用法：`/resume-conversation-full <对话名>`。只读、不搬移。
 
-## 适用对象
+## 环境依赖
 
-- DeepSeek Harness（DSH）用户：一个可由 AI agent 按需自动加载的 skill，克隆即用、无需构建。
-- 需要继承既有对话完整细节（排障步骤/代码）的人
+- 操作系统：Windows
+- 运行时：Node.js v24（解压 .zstd）
+- 第三方软件：无（仅依赖系统自带的 PowerShell / 标准库）
 
 ## 目录结构
 
