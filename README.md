@@ -1,3 +1,5 @@
+> ⚠️ **本仓库已废弃**：内容已并入 [agent-deploy](https://github.com/hpsks416/agent-deploy) 的 skills/resume-conversation-full/ 子目录，请以 agent-deploy 为准。本仓库保留仅供历史归档。
+
 # resume-conversation-full
 
 继承既有对话的**完整细节**。用法：`/resume-conversation-full <对话名>`。只读、不搬移。
@@ -27,3 +29,4 @@
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+
